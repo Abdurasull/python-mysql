@@ -115,5 +115,5 @@ Kitobni o'chirish ->6
 Yil bo'yicha saralash ->7
 Jami kitoblar sonini chiqarish ->8
 Narx bo'yicha statistikani chiqarish ->9
-Kutubxonadan chiqish ->0
+Kutubxonadan chiqish ->0\n
         """)
